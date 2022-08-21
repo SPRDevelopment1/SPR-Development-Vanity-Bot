@@ -23,5 +23,3 @@ After you enter the NPM command above start your bot any issues join the discord
 
 Made By sleezy#6197
 
-Pictures 
-https://media.discordapp.net/attachments/1010938582954954783/1010961360278007899/unknown.png?width=220&height=51
